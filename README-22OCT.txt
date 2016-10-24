@@ -4,4 +4,6 @@ Para corregir una falla en el uso del Plugin Cobertura, se realiza los siguiente
 - Se ajusta el archivo pom.xml del proyecto game-of-life en el repo local eliminando la línea <skip>true</skip> del plugin maven-surefire plugin.  Actualizar dicho cambio en el repositorio GitHub.
 
 Fuente: https://github.com/wakaleo/jenkins-the-definitive-guide-book/issues/15
+
+prueba
 	
